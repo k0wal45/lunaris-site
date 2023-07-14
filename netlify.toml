@@ -1,0 +1,4 @@
+[[redirects]]
+  form = "/*"
+  to = "/notfound"
+  status = 404
