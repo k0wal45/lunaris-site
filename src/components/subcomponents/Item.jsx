@@ -11,7 +11,7 @@ function Item({name, text, img}) {
   return (
     <div class="mx-auto card w-96 bg-base-100 border-2 border-neutral bg-opacity-75 rounded-sm">
       <figure class="px-10 pt-10">
-      <img src={`/jpg/${img}.png`} alt="Planeta" width='100px' className='rotate-12' />
+      <img src={`/jpg/${img}.png`} alt="Planeta" width='100px' className='rotate-12 aspect-square' />
       </figure>
 
       <div class="card-body items-center text-center">
