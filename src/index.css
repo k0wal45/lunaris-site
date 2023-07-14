@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* scrollbar */
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #003CFF;
+  border-radius: 3px
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+
+@layer base {
+	@font-face {
+		font-family: 'hussar';
+		src: url('./assets/font/HussarBold.otf');
+    font-display: swap;
+
+	}
+	@font-face {
+		font-family: 'hussar-italic';
+		src: url('./assets/font/HussarBoldObliqueTwo.otf');
+    font-display: swap;
+	
+	}
+}
+
+
+.bg-hero:before {
+	background: url('./assets/webp/code-on-screen.webp');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+	content: "";
+	position: absolute;
+	width: 150%;
+	height: 150%;
+	top: -50%;
+	left: -50%;
+	z-index: -1;
+	animation: animate-hero-bg 30s ease-in-out infinite;
+}
+
+@keyframes animate-hero-bg {
+	0% {
+		top: 0;
+		left: -3vh;
+	}
+	25% {
+		top: -4vh;
+		left: -30vh;
+	}
+
+	50% {
+		top: -20vh;
+		left: -15vh;
+	}
+
+	75% {
+		top: -10vh;
+		left: 0;
+	}
+
+	100% {
+		top: 0;
+		left: -3vh;
+	}
+}
+
+
+.shadow-png {
+  filter: drop-shadow(50px 50px 50px #111);
+}
+
+.animation-pulse-up-down {
+	animation: pulse-up-down 5s ease-in-out infinite;
+}
+
+@keyframes pulse-up-down {
+	0% {
+		transform: translateY(-2rem)
+	}
+
+	50% {
+		transform: translateY(2rem)
+	}
+
+
+	100% {
+		transform: translateY(-2rem)
+	}
+}
