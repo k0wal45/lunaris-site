@@ -33,7 +33,7 @@ function Logotypy() {
           text='Logo to jeden z najważniejszych aspektów wizerunku firmy. Jest to często pierwsza rzecz, którą zauważą potencjalni klienci i powinno to być coś, co zapamiętają. Dobrze zaprojektowane logo może pomóc w ustanowieniu marki firmy i uczynić ją bardziej rozpoznawalną na rynku. ' 
           subheading=''
           textSubheading=''
-          price='400'
+          price='250'
         /> 
 
 
