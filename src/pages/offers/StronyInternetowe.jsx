@@ -33,7 +33,7 @@ function StronyInternetowe() {
         text='Profesjonalne tworzenie stron wizytówek. Stworzymy dla Ciebie atrakcyjną i przejrzystą stronę, która przedstawi Twoją firmę w najlepszym świetle. Dzięki stronie wizytówce zyskasz profesjonalny wizerunek online oraz łatwiejszy sposób kontaktu dla potencjalnych klientów. Skontaktuj się z nami, aby skorzystać z korzyści, jakie niesie posiadanie dobrze zaprojektowanej strony wizytówki.' 
         subheading='Czas realizacji'
         textSubheading='do 5 dni'
-        price='1500'
+        price='1000'
       />
 
       <Showcase
@@ -42,7 +42,7 @@ function StronyInternetowe() {
         text='Zbudujemy dla Ciebie responsywną stronę, która doskonale odzwierciedli Twoją markę i spełni Twoje potrzeby. Dzięki naszej stronie internetowej, będziesz mógł/a przedstawić swoje produkty/usługi szerokiemu gronu klientów, zapewniając im łatwy dostęp do informacji i możliwość kontaktu. Skontaktuj się z nami, aby skorzystać z zalet posiadania profesjonalnie wykonanej strony internetowej. ' 
         subheading='Czas realizacji'
         textSubheading='do 14 dni'
-        price='2800'
+        price='2000'
       />
 
       <Showcase
@@ -51,7 +51,7 @@ function StronyInternetowe() {
         text='Tworzymy sklepy internetowe, które pomagają w sprzedaży Twoich produktów online. Zapewniamy funkcjonalne rozwiązania, które umożliwiają łatwe zakupy klientom. Stworzymy dla Ciebie sklep z intuicyjnym interfejsem, który przyciągnie klientów i zwiększy sprzedaż. Skontaktuj się z nami, aby rozpocząć swoją przygodę ze sprzedażą online.' 
         subheading='Czas realizacji'
         textSubheading='do 31 dni'
-        price='3500'
+        price='3000'
       />
 
 
