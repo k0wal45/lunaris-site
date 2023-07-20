@@ -36,7 +36,7 @@ function Grafika() {
           text='Stworzymy dla Ciebie treści, które nie tylko wyróżnią się w zatłoczonej przestrzeni mediów społecznościowych, ale także skutecznie przekonają klientów, że Twoje produkty lub usługi są tym, czego potrzebują. Odkryj moc efektywnego marketingu w social media i pozwól nam pomóc Ci osiągnąć sukces!' 
           subheading='Social Media'
           textSubheading='Najważniejszą częścią tego typu strategi są działania firmy w social mediach które razem będziemy monitorować i dostosowywać aby wyciągnąć z tego jak największe zyski'
-          price='100'
+          price='50'
         /> 
 
         <Showcase
@@ -45,7 +45,7 @@ function Grafika() {
           text='Skoncentrujemy się na budowaniu marki i wizerunku poprzez tworzenie spójnej identyfikacji wizualnej, a także kreowanie wartościowych treści, które będą angażować i informować potencjalnych klientów. W strategii uwzględniony zostanie również marketing treści, który pozwoli na dzielenie się wiedzą i doświadczeniem związanych z branżą, zwiększając tym samym zaufanie i autorytet marki.' 
           subheading='Social Media'
           textSubheading='Najważniejszą częścią tego typu strategi są działania firmy w social mediach które razem będziemy monitorować i dostosowywać aby wyciągnąć z tego jak największe zyski'
-          price='400'
+          price='100'
         /> 
 
         <Showcase
@@ -54,7 +54,7 @@ function Grafika() {
           text='Skoncentrujemy się na budowaniu marki i wizerunku poprzez tworzenie spójnej identyfikacji wizualnej, a także kreowanie wartościowych treści, które będą angażować i informować potencjalnych klientów. W strategii uwzględniony zostanie również marketing treści, który pozwoli na dzielenie się wiedzą i doświadczeniem związanych z branżą, zwiększając tym samym zaufanie i autorytet marki.' 
           subheading='Social Media'
           textSubheading='Najważniejszą częścią tego typu strategi są działania firmy w social mediach które razem będziemy monitorować i dostosowywać aby wyciągnąć z tego jak największe zyski'
-          price='400'
+          price='50'
         /> 
 
       </OffersProp>
