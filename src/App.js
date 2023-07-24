@@ -23,6 +23,7 @@ import WervaSolutions from "./pages/portfolio/WervaSolutions";
 
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import PromoInfo from "./components/PromoInfo";
 
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
     <Router>
 
       <div className="flex flex-col h-screen">
+        <PromoInfo />
         <Navbar />
         
           <Routes>
