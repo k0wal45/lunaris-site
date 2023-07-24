@@ -16,13 +16,13 @@ function Blog() {
 
               <button class="btn">
                 <a href="https://www.instagram.com/lunarisweb.pl/" aria-label="Link do Instagrama">
-                  <img src={instagram} alt="Instagram Icon" className='invert'/>
+                  <img src={instagram} alt="Instagram Icon"/>
                 </a>
               </button> 
 
               <button class="btn">
                 <a href="https://www.facebook.com/profile.php?id=100093384969239" aria-label="Link do Instagrama">
-                  <img src={facebook} alt="Facebook Icon" className='invert'/>
+                  <img src={facebook} alt="Facebook Icon"/>
                 </a>
               </button> 
 
