@@ -9,8 +9,8 @@ function Contact() {
   return (
     <main className='flex flex-col justify-center items-center w-full'>
       <Hero
-        name='Co powinieneś o nas wiedzieć?'
-        textHero='Skontaktuj się z nami aby rozpocząć świetną przygodne i przynieść s'
+        name='Skontaktuj się z nami!'
+        textHero='Wycena oraz spotaknie jest całkowicie darmowe więc napisz do nas mailem, przez instagrama czy facebooka, zadzown na numer telefonu lub napisz przez stronę internetową'
         img={meeting}
       />
       <Stats strony='4' projekty='10+' />
@@ -19,7 +19,7 @@ function Contact() {
 
       <Map 
         header='Możesz również umówić się na spotkanie'
-        text='Umów się z nami na spotkanie telefonicznie lub mailowo na terenie Katowic i okolic oraz Wrocławia'
+        text='Jesteśmy zlokalizowani w Katowicach oraz często bywamy we Wrocławiu więc jeśli preferujesz spotkania twarzą w twarz, umów się już teraz na darmowe konsultacje'
       />
 
       <section className="p-7 w-screen">
