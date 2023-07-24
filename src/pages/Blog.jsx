@@ -14,13 +14,13 @@ function Blog() {
             <p class="py-6">Bardzo dziękujemy że tu zajrzałeś, ale nasz blog jeszcze nie jest gotowy i dalej jest w budowie. Jeśli interesują cię publikwoane przez nas treści o stronach internetowych i marketingu zajrzyj na nasze media społecznościowe, tam aktualnie je zamieszczamy</p>
             <div class="btn-group rounded-xl">
 
-              <button class="btn invert">
+              <button class="btn">
                 <a href="https://www.instagram.com/lunarisweb.pl/" aria-label="Link do Instagrama">
                   <img src={instagram} alt="Instagram Icon" className='invert'/>
                 </a>
               </button> 
 
-              <button class="btn invert">
+              <button class="btn">
                 <a href="https://www.facebook.com/profile.php?id=100093384969239" aria-label="Link do Instagrama">
                   <img src={facebook} alt="Facebook Icon" className='invert'/>
                 </a>
