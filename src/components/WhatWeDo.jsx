@@ -5,7 +5,7 @@ import BoxCenter from './subcomponents/BoxCenter'
 
 function WhatWeDo() {
   return (
-    <section class="mb-0 lg:my-12 hero p-0 overflow-x-hidden">
+    <section class="mb-0 lg:my-12 hero p-0 overflow-hidden">
 			<div class="hero-content flex-col-reverse lg:flex-row-reverse w-full lg:w-[80vw] p-[1rem] lg:p-0 pb-0">
 				<div data-aos='fade-left' className="flex-1 grid place-items-center grid-cols-1 lg:grid-cols-2 lg:gap-8 ">
 						<BoxCenter 
