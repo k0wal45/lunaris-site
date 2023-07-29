@@ -7,7 +7,7 @@ import meeting from '../assets/webp/meeting.webp'
 
 function Contact() {
   return (
-    <main className='flex flex-col justify-center items-center w-full overflow-x-hidden'>
+    <main className='flex flex-col justify-center items-center w-full'>
       <Hero
         name='Skontaktuj się z nami!'
         textHero='Wycena oraz spotaknie jest całkowicie darmowe więc napisz do nas mailem, przez instagrama czy facebooka, zadzown na numer telefonu lub napisz przez stronę internetową'
