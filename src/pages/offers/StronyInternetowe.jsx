@@ -29,7 +29,7 @@ function StronyInternetowe() {
   
       <Showcase
         img={doWeb1}
-        heading= 'Strona wizytówka'
+        heading= 'Strona typu One Page'
         text='Profesjonalne tworzenie stron wizytówek. Stworzymy dla Ciebie atrakcyjną i przejrzystą stronę, która przedstawi Twoją firmę w najlepszym świetle. Dzięki stronie wizytówce zyskasz profesjonalny wizerunek online oraz łatwiejszy sposób kontaktu dla potencjalnych klientów. Skontaktuj się z nami, aby skorzystać z korzyści, jakie niesie posiadanie dobrze zaprojektowanej strony wizytówki.' 
         subheading='Czas realizacji'
         textSubheading='do 5 dni'
@@ -38,7 +38,7 @@ function StronyInternetowe() {
 
       <Showcase
         img={doWeb2}
-        heading= 'Strona Internetowa'
+        heading= 'Strona Typu Multi Page'
         text='Zbudujemy dla Ciebie responsywną stronę, która doskonale odzwierciedli Twoją markę i spełni Twoje potrzeby. Dzięki naszej stronie internetowej, będziesz mógł/a przedstawić swoje produkty/usługi szerokiemu gronu klientów, zapewniając im łatwy dostęp do informacji i możliwość kontaktu. Skontaktuj się z nami, aby skorzystać z zalet posiadania profesjonalnie wykonanej strony internetowej. ' 
         subheading='Czas realizacji'
         textSubheading='do 14 dni'
