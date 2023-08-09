@@ -96,7 +96,7 @@ function ContactForm() {
             <div className="form-control mt-6">
               <button type="submit" className="btn btn-primary text-lg">Wyślij Wiadomość</button>
             </div>
-          <p className="opacity-70">Klikając przycisk automatycznie akceptujesz naszą politykę pryhwatności <Link to='/politykaprywatnosci' className="underline hover:opacity-50">politykę prywatności</Link></p>
+          <p className="opacity-70">Klikając przycisk automatycznie akceptujesz naszą <Link to='/politykaprywatnosci' className="underline hover:opacity-50">politykę prywatności</Link></p>
           </div>
 
           <ToastContainer 
