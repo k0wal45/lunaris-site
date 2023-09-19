@@ -1,21 +1,20 @@
 import React, { useEffect, useState } from 'react'
 import Hero from '../components/offersComponents/Hero'
 import ContactSec from '../components/contact/ContactSec'
-import Stats from '../components/home/Stats'
 
 import { useParams } from 'react-router-dom';
-import PortoflioItem from '../components/portfolio/PortoflioItem';
-import Offers from '../components/offershowcase/Offers';
+import Showcase from '../components/offersComponents/Showcase';
+import Portfolio from '../components/home/Portfolio';
 
-const Portfolio = () => {
-  
+const Offer = () => {
+
   const [data, setData] = useState(null)
   const [response, setResponse] = useState({})
   const params = useParams()
 
   useEffect(() => {
     const fetchData =  () => {
-      const response = require('../portfolio.json')
+      const response = require('../offers.json')
       setResponse(response)
     }
     fetchData(); 
@@ -24,10 +23,8 @@ const Portfolio = () => {
     useEffect(() => {
       if (params.id === 'strony-internetowe') {
         setData(response.strona)
-      } else if (params.id === 'wizytówki') {
-        setData(response.wizytowka)
-      } else if (params.id === 'banery-reklamowe') {
-        setData(response.baner)
+      } else if (params.id === 'grafika') {
+        setData(response.grafika)
       } else if (params.id === 'logotypy') {
         setData(response.logotyp)
       } 
@@ -45,22 +42,29 @@ const Portfolio = () => {
             textHero={data.heroText}
             img={data.heroImg}
           />
-
-          <Stats />
           <section className="mx-auto flex flex-col justify-center items-center gap-8 p-4">
-            <h2 className="text-3xl lg:text-5xl font-hussar">Nasze Realizacje Związane z {data.universal}</h2> 
+            <h2 className="text-3xl lg:text-5xl font-hussar">Nasze Propozycje Ofert {data.universal}</h2> 
               {
-                Array.isArray(data.prace) ? data.prace.map((doc) => (
-                  <PortoflioItem
-                    imgArray={doc.img}
-                    title={doc.title}
+                Array.isArray(data.oferty) ? data.oferty.map((doc) => (
+                  <Showcase
+                    img={doc.img}
+                    heading={doc.title}
                     text={doc.text}
+                    time={doc.time}
+                    price={doc.cost}
                   />
                 )) : ''
               }
+    
+          </section>
+    
+          <section className="mx-auto flex flex-col justify-center items-center gap-8 p-4">
+          <h2 className="text-3xl lg:text-5xl font-hussar">Sprawdź Nasze Poprzednie Realizacje</h2> 
+    
           </section>
 
-          <Offers />
+          <Portfolio />
+    
     
           <ContactSec />
         </main>
@@ -71,6 +75,7 @@ const Portfolio = () => {
     )
   }
 
+  
 }
 
-export default Portfolio
+export default Offer

@@ -2,7 +2,7 @@ import React from 'react'
 import facebook from '../assets/svg/facebook.svg'
 import instagram from '../assets/svg/instagram.svg'
 
-import ContactSec from '../components/ContactSec'
+import ContactSec from '../components/contact/ContactSec'
 
 function Advanced() {
   return (

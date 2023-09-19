@@ -44,56 +44,23 @@
 	}
 }
 
+.circle-container {
+	position: relative;
+	display: inline-block; /* Make sure the container doesn't collapse */
+}
 
-.bg-hero:before {
-	background: url('./assets/webp/code-on-screen.webp');
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
+.circle-container::before {
 	content: "";
-	position: absolute;
-	width: 150%;
-	height: 150%;
-	top: -50%;
-	left: -50%;
-	z-index: -1;
-	animation: animate-hero-bg 30s ease-in-out infinite;
+	@apply block h-3/4 aspect-square rounded-full bg-primary absolute z-[-1] top-1/2 left-1/2;
+	transform: translate(-50%, -35%); 
 }
-
-@keyframes animate-hero-bg {
-	0% {
-		top: 0;
-		left: -3vh;
-	}
-	25% {
-		top: -4vh;
-		left: -30vh;
-	}
-
-	50% {
-		top: -20vh;
-		left: -15vh;
-	}
-
-	75% {
-		top: -10vh;
-		left: 0;
-	}
-
-	100% {
-		top: 0;
-		left: -3vh;
-	}
-}
-
 
 .shadow-png {
-  filter: drop-shadow(50px 50px 50px #111);
+  filter: drop-shadow( 0 0 50px #aaa );
 }
 
 .animation-pulse-up-down {
-	animation: pulse-up-down 5s ease-in-out infinite;
+	animation: pulse-up-down 8s ease-in-out infinite;
 }
 
 @keyframes pulse-up-down {
@@ -109,4 +76,20 @@
 	100% {
 		transform: translateY(-2rem)
 	}
+}
+
+.animate-out {
+  animation: moveOut 0.5s linear forwards;
+}
+
+@keyframes moveOut {
+  0% {
+    transform: translateX(0%);
+  }
+  50% {
+    transform: translateX(100vw);
+  }
+  100% {
+    transform: translateX(0%);
+  }
 }

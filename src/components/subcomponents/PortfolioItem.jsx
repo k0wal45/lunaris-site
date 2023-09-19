@@ -6,32 +6,28 @@ import { useEffect } from "react";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-import photo from '../../assets/jpg/AdvertFirst.png'
-
-function PortfolioItem({img, name, text, title, aos}) {
+function PortfolioItem({img, name, text, aos}) {
 
   useEffect(() => {
 		AOS.init();
 	}, [])
 
-    const directory = () => {
-        const string = name.toLowerCase().replace(/\s/g, '')
-    
-        return string
-      }
+  const directory = () => {
+    const string = name.toLowerCase().replace(/\s/g, '-')
+
+    return string
+  }
 
   return (
-    <article data-aos={aos} class="card lg:card-side bg-base-100 rounded-sm w-full lg:w-[35rem]">
-      <figure className="flex-1">
-        <img src={img !== '' ? img : photo} alt='Zdjęcie pracy wykonanej dla firmy' className="w-full h-full object-cover "/>
-      </figure>
-      <div class="card-body bg-primary bg-opacity-40 gap-4 flex-1">
-        <span className="opacity-70 text-sm">{title}</span>
-        <h2 class="text-2xl font-hussar">{name}</h2>
+
+    <article data-aos={aos} class="card w-96 bg-base-100 shadow-xl rounded-sm border-2 border-neutral-200">
+      <figure><img src={img} alt="Lunaris Web Realizacja" /></figure>
+      <div class="card-body justify-center items-center">
+        <h2 class="card-title text-xl font-hussar">{name}</h2>
         <p>{text}</p>
-        <div class="card-actions justify-center">
+        <div class="card-actions justify-end">
           <Link to={`/portfolio/${directory()}`} className="flex items-center gap-4">
-            <span className="hover:underline">Czytaj Więcej</span>
+            <span className="hover:underline">Zobacz Więcej</span>
             <FontAwesomeIcon icon={faArrowRight} />
           </Link>
         </div>

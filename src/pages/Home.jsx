@@ -1,20 +1,22 @@
-import Hero from "../components/Hero"
-import Pros from "../components/Pros"
-import Stats from "../components/Stats"
-import SwiperItems from "../components/SwiperItems"
-import WhatWeDo from "../components/WhatWeDo"
-import ContactSec from "../components/ContactSec"
-import Portfolio from "../components/Portfolio"
+import Hero from "../components/home/Hero"
+import ContactSec from "../components/contact/ContactSec"
+import Portfolio from "../components/home/Portfolio"
+import Person from "../components/Person/Person"
+import Stats from "../components/home/Stats"
+import Pros from "../components/home/Pros"
+import Offers from "../components/offershowcase/Offers"
+import Testimonials from "../components/testimonials/Testimonials"
 
 function Home() {
   return (
     <main>
       <Hero />
-      <Stats strony='4' projekty='10+' />
-      <WhatWeDo />
-      <SwiperItems />
+      <Stats />
+      <Person />
+      <Offers />
       <Portfolio />
       <Pros />
+      <Testimonials />
       <ContactSec />
     </main>
   )

@@ -1,0 +1,122 @@
+{
+  "strona": {
+    "header":"Strony Internetowe",
+    "universal" : "Stronami Internetowymi",
+    "heroImg":"https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fstrona.webp?alt=media&token=2f49fc9a-91d4-4fd4-8c96-cc29ed3d50c7",
+    "heroText":"Strony internetowe to bardzo ważna część naszej pracy, wręcz jest to nasza główna dziedzina. Przedstawiamy wam nasze realizacje związane ze stronami internetowymi.",
+    "prace":[
+      {
+        "title":"Strona dla wypożyczalni samochodowej",
+        "text":"Zgłosiła się do nas nowo otwarta wypożyczalnia luksusowych i sportowych samochodów, a naszym zadaniem było stworzenie dla nich strony internetowej. Oferowaliśmy im rozwiązanie w postaci prostej, statycznej strony, która nie tylko prezentowała ich flotę samochodową, ale także była zgodna z ich strategią marketingową. Strona dla BQ Cars Katowice miała za zadanie pomóc w pozyskiwaniu klientów oraz prezentować szeroki wybór aut dostępnych w ich asortymencie.",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fstrony%2Fbq%20(1).webp?alt=media&token=d6c11728-8e06-4171-8c25-f572b857253c",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fstrony%2Fbq%20(2).webp?alt=media&token=ad53bf47-a952-4f54-8273-dcb60fadf1e8",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fstrony%2Fbq%20(3).webp?alt=media&token=9fdb1d71-bb55-4d70-8c9b-6e619342117a",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fstrony%2Fbq%20(4).webp?alt=media&token=ee21db10-87a1-4132-99cf-824b5750b216"
+        ]
+      },
+      {
+        "title":"Strona dla firmy transportowej",
+        "text":"Zaprojektowaliśmy prostą, statyczną stronę internetową dla zaprzyjaźnionej firmy transportowej, która działała w jednej z gałęzi ich działalności. Nasza strona zawierała galerię zdjęć oraz szczegółowe informacje dotyczące ich usług. Ta strona nadal doskonale spełnia swoją funkcję dla firmy Oktech.",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fstrony%2Fokte%20(1).webp?alt=media&token=29ea7b99-1f43-4da2-a837-415f12b25919",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fstrony%2Fokte%20(2).webp?alt=media&token=0aab8291-c1ed-4a68-b523-d703c2db4894",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fstrony%2Fokte%20(3).webp?alt=media&token=2e4349f8-b94e-466a-a0ed-c08dc80a8a54"
+        ]
+      }
+      
+    ]
+  },
+  "wizytowka": {
+    "header":"Wizytówki",
+    "universal" : "Wizytówkami",
+    "heroImg":"https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowka%20(1).webp?alt=media&token=539af868-7424-4da7-933f-b256f5470842",
+    "heroText":"Wizytówki to bardzo prosty sposób aby zostawić klientowi informacje oraz kontakt do siebie lub swojej firmy, przedstawiamy wam nasze portfolio wizytówek, które stale się powiększa",
+    "prace":[
+      {
+        "title":"Wizytówki dla wypożyczalni samochodowej",
+        "text":"Wypożyczalnia samochodów potrzebowała wizytówek, aby dostarczyć potencjalnym klientom wygodne narzędzie kontaktu, którzy później mogliby skorzystać z naszych usług. Każda wizytówka zawierała atrakcyjne zdjęcie samochodu, dane kontaktowe oraz kod QR prowadzący bezpośrednio do naszego profilu na Instagramie, gdzie prezentujemy naszą pełną ofertę wypożyczalni.",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowki%2Fbq.webp?alt=media&token=8d85ffac-ca53-408b-ab5b-92b51fb90234",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowki%2Fbq1.webp?alt=media&token=f53380c9-6d6d-418c-be96-d7cf2c2c6299"
+        ]
+      },
+      {
+        "title":"Wizytówka dla prywatnej kliniki",
+        "text":"Przygotowaliśmy wizytówki dla prywatnej kliniki, które stanowiły doskonałe narzędzie do przekazywania informacji kontaktowych potencjalnym inwestorom oraz pracownikom. Ponadto, stworzyliśmy specjalne wizytówki, na których lekarze mogą zapisywać terminy wizyt dla pacjentów, eliminując konieczność korzystania z zwykłych kartek.",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowki%2Fmer.webp?alt=media&token=df2507dc-b2a9-4f57-9637-6494dc0023c4",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowki%2Fmer1.webp?alt=media&token=b02bfe75-0aec-4d79-afab-0646ceda2292",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowki%2Fmerin.webp?alt=media&token=b1f8cfc8-de31-4ed7-95c6-d3c72832c5a4",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowki%2Fmerin2.webp?alt=media&token=a1effb03-ecca-462b-84d2-b413c3f4cb69"
+        ]
+      },
+      {
+        "title":"Wizytówki dla biura rachunkowego",
+        "text":"Przygotowaliśmy proste i eleganckie wizytówki dla firmy doradztwa biznesowego, aby ich, klienci mieli łatwy dostęp do niezbędnych informacji kontaktowych w jednym miejscu. Ich wizytówki są dostępne w dwóch wariantach kolorystycznych: białym z czarnym oraz czarnym ze złotym. Projekt ten został starannie dostosowany do specyfikacji drukarni, która wydrukowała czarne wizytówki ozdobione efektowną złotą folią, dodając im wyjątkowego uroku i prestiżu.",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowki%2Fwer.webp?alt=media&token=6bd58543-e33f-4677-bbc1-cf3afc69cac5",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fwizytowki%2Fwer1.webp?alt=media&token=56b6f6c7-2b96-412a-9ec0-e06fefaa7a54"
+        ]
+      }
+      
+    ]
+  },
+  "baner": {
+    "header":"Baner Reklamowy",
+    "universal" : "Banerami",
+    "heroImg":"https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fbaner.webp?alt=media&token=88d749b7-3432-442b-9e52-c67881269a70",
+    "heroText":"Banery reklamowe pozwalają potencjalnemu klientowi zaznajomić się z twoją firmą oraz usóługami jakie świadczysz, oto nasze portfolio banerów które pomogły naszym klientom zyskać więcej",
+    "prace":[
+      {
+        "title":"Banery reklamowe dla prywatnej kliniki",
+        "text":"Prywatna klinika Merkury Medica w Jastrzębie-Zdrój miała przyjemność ogłosić swoje otwarcie, a my stworzyliśmy specjalne banery reklamowe, które zawierają kluczowe informacje, pozwalając potencjalnym klientom dowiedzieć się o ich nowej placówce medycznej. Nasze banery nie tylko prezentują istotne szczegóły o klinice, ale także budują pozytywny wizerunek wśród mieszkańców, podkreślając naszą troskę o zdrowie i dobro pacjentów. Zapraszamy serdecznie do naszej kliniki Merkury Medica, gdzie dbamy o Twoje zdrowie z pasją i profesjonalizmem.",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fbanery%2Fbaner%20strzalka%20merkury.webp?alt=media&token=66670fcb-a68d-45a5-9ec7-fbd1e15a76c9",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fbanery%2Fbener%207%2C5x1.webp?alt=media&token=d2682cf1-068e-4e40-b12e-045b3bd201a1"
+        ]
+      },
+      {
+        "title":"Banery Reklamowe dla wypożyczalni samochodowej",
+        "text":"Wypożyczalnia sportowych oraz luksusowych samochodów potrzebowała baneru aby pokazać swoją ofertę oraz przedstawić informacje dla mieszkańsów Katowic. banery zawierają w sobie najważniejsze infromacje takie jak numer telefonu, adres e-mail czy strona internetowa",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fbanery%2Fbq.webp?alt=media&token=dc47f79a-dfc5-4516-8040-8fa4cc98cb94",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Fbanery%2Fbq2.webp?alt=media&token=a94635e5-3e76-420a-9876-5316e82452dc"
+        ]
+      }
+      
+    ]
+  },
+  "logotyp": {
+    "header":"Logotyp",
+    "universal" : "Logotypami",
+    "heroImg":"https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Flogo.webp?alt=media&token=d226846e-141d-4619-be1e-15dbd865b98d",
+    "heroText":"Logotyp to bardzo znak jakim twoja firma identyfikuje się praktycznie wszędzie dla tego tak ważne jest aby logotyp był przyjazny oraz ciekawy, oto niektóre z logotypów które stworzyliśmy dla firm",
+    "prace":[
+      {
+        "title":"Logo dla prywatnej kliniki",
+        "text":"Prywatna klinika poszukiwała logo, które nie tylko było proste, ale także wzbudzało zaufanie i pozytywne emocje. Nasz zespół projektowy stworzył wiele propozycji logotypu, zgodnych z instrukcjami od właścicieli kliniki. Logo wykorzystuje wybrany przez nich kolor i spełnia wszystkie prezentowane przez nich kryteria. Teraz klinika ma profesjonalne i przyciągające wzrok logo, które reprezentuje jej wartości i misję",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Flogotypy%2FLogo%20bez%20napisow.webp?alt=media&token=75195403-6205-4eb5-b825-dc3f20c15235"        
+        ]
+      },
+      {
+        "title":"Logo dla wypożyczalni samochodów",
+        "text":"Nowo otwarta wypożyczalnia samochodów potrzebowała logotypu który zawierałby wizerunek byka oraz był narysowany w stylu kreskówkowym. Po prazedstawieniu paru szkicy i wybraniu tych które najlepiej spełniały oczekiwania. Następnie przeszliśmy do wstępnego konturowania oraz kolorowania  wybranych logotypów, natomist po wybraniu finalnego logotypu, zadbaliśmy o szczegóły dzięki czemu BQ Cars Katowice, może się teraz cieszyć swoim własnym logotypem z wizerunkiem byka",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Flogotypy%2FbqcarsLogo.webp?alt=media&token=9f7a6c9e-c341-4322-832e-354292e14d8e"
+        ]
+      },
+      {
+        "title":"Logo dla biura rachunkowego",
+        "text":"Logo dla dla biura rachunkowego Werva Solutions, miało być schludne proste oraz ekskluzywne, po przedstawieniu paru propozycji wprowadziliśmy poprawki do wybranych logotypów, co pozwoliło wervie na posiadanie swojego własnego logotypu którym indetyfikują się teraz w sieci jak i poza nią",
+        "img": [
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Flogotypy%2FlogoBezTla.webp?alt=media&token=b3dfaab3-ac23-4d24-bb63-5afdf491c748",
+          "https://firebasestorage.googleapis.com/v0/b/lunarisweb-875a8.appspot.com/o/images%2Fportfolio%2Flogotypy%2FWERVWA%20SOLUTIONS%20czerwone%20bez%20tla.webp?alt=media&token=326353bd-e90d-48f1-89cc-b61b0ed6f337"
+        ]
+      }
+      
+    ]
+  }
+  
+}
