@@ -33,8 +33,6 @@ const Portfolio = () => {
       } 
     }, [params.id, data, response])
 
-  console.log(data)
-
 
   if(data) {
       return (

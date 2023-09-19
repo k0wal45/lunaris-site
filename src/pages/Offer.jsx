@@ -30,8 +30,6 @@ const Offer = () => {
       } 
     }, [params.id, data, response])
 
-  console.log(data)
-
 
   if(data) {
       return (
