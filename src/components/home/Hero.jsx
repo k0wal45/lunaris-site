@@ -10,7 +10,7 @@ return (
 
 				<div className="flex flex-col gap-4 max-w-md">
 					<h1 className="text-5xl font-hussar leading-snug">Twój pierwszy krok do sukcesu w sieci</h1>
-					<p className="text-xl text-justify" >SW dzisiejszych czasach strona internetowa i efektywny logotyp stanowią kluczowe elementy marketingu, które mają ogromne znaczenie zarówno online, jak i w świecie biznesu poza siecią.</p>
+					<p className="text-xl text-justify" >W dzisiejszych czasach strona internetowa i efektywny logotyp stanowią kluczowe elementy marketingu, które mają ogromne znaczenie zarówno online, jak i w świecie biznesu poza siecią.</p>
 					<Link to='/kontakt'><button className="btn btn-primary">Skontaktuj się po darmową wycenę</button></Link>
 				</div>
 
