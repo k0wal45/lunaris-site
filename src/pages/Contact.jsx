@@ -12,7 +12,7 @@ function Contact() {
     <main className='flex flex-col justify-center items-center w-full'>
       <Hero
         name='Skontaktuj się z nami!'
-        textHero='Wycena oraz spotaknie jest całkowicie darmowe więc napisz do nas mailem, przez instagrama czy facebooka, zadzwoń na numer telefonu lub napisz przez stronę internetową'
+        textHero='Wycena oraz spotkanie jest całkowicie darmowe więc napisz do nas mailem, przez instagrama czy facebooka, zadzwoń na numer telefonu lub napisz przez stronę internetową'
         img={meeting}
       />
       <Stats />
